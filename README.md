@@ -114,7 +114,16 @@ Supported clients:
   - `GETH_CACHE_GC="12"`
   - `GETH_CACHE_SNAPSHOT="24"`
   - `GETH_CACHE_TRIE="44"`
+  
+## Description
+This repository contains a Node.js-based project intended for experimentation and learning.  
+It provides a simple setup for running and extending Node.js code locally.
 
+## Usage
+
+### Install dependencies
+```bash
+npm install
 ### Optional Features
 
 - EthStats Monitoring (uncomment to enable)
